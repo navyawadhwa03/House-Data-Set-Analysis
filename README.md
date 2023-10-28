@@ -101,4 +101,4 @@ This repository offers Jupyter notebooks that serve as your guiding light throug
 
 ## Result
 
-You can check the summary and results in documents folder.
+You can check the summary and results in the documents and result folder respectively.
